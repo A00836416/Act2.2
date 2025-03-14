@@ -1,0 +1,72 @@
+# Archivos binarios y ejecutables
+*.exe
+*.out
+*.o
+*.obj
+*.app
+
+# Bibliotecas compartidas y archivos objeto
+*.dll
+*.so
+*.dylib
+*.obj
+*.a
+*.lib
+*.so
+
+# Archivos generados por compiladores
+*.gch
+*.pch
+*.o
+
+# Carpetas de compilación comunes
+/build/
+/bin/
+/Debug/
+/Release/
+/dist/
+
+# Archivos generados por CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+cmake-build-*/
+
+# IDEs específicos
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.VC.db
+*.VC.db
+*.vcxproj.user
+*.vcxproj.user
+
+# Otros archivos temporales
+*.log
+*.tmp
+
+# Cobertura y perfiles
+*.gcno
+*.gcda
+*.gcov
+
+# Otros
+*.o
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.class
+*.stackdump
+
+# Archivos generados por depuradores
+*.dSYM/
+
+# Directorios específicos del usuario
+*.user
+*.opensdf
+*.sdf
